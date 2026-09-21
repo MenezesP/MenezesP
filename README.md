@@ -88,18 +88,14 @@ Backend Architecture ── designing reliable and maintainable services
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MenezesP&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="Paulo's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenezesP&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" alt="Paulo's most used languages" />
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" alt="Paulo's GitHub stats" />
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Paulo's most used languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MenezesP&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Paulo's GitHub contribution streak" />
-</div>
-
-## Contribution graph
+## Contribution activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MenezesP&bg_color=00000000&color=8B949E&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true" alt="Paulo's GitHub activity graph" />
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Paulo's contribution activity" />
 </div>
 
 ## Let's connect
