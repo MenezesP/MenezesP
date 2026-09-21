@@ -2,9 +2,13 @@
 
 # Paulo de Menezes Gonçalves
 
-### Software Developer focused on Web, Backend & Cybersecurity
+**Software developer focused on web, mobile, and backend development, currently expanding into cybersecurity.**
 
-I build software for the web — and I'm learning how to secure it.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=6E7681&center=true&vCenter=true&width=520&lines=Software+Developer;Flutter+%26+Django;Backend+%26+Data;Cybersecurity" alt="Software Developer, Flutter and Django, Backend and Data, Cybersecurity" />
+</a>
+
+<br />
 
 <a href="https://paulodemenezesportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/paulomenezesg"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -79,6 +83,12 @@ Contributed to a field data collection platform designed to operate in areas wit
 <div align="center">
   <img src="profile-summary-card-output/github_dark/3-stats.svg" alt="Paulo's GitHub stats" />
   <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Paulo's most used languages" />
+</div>
+
+## Contribution activity
+
+<div align="center">
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Paulo's contribution activity" />
 </div>
 
 ## Let's connect
